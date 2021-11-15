@@ -2,5 +2,5 @@
 
 ## DYOM Module
 
-###Task 1:
+### Task 1:
 Anomaly Detection - detect anomaly in temperatures, training different models to compare the results of the anomaly detection.
